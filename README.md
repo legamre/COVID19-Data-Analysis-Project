@@ -1,1 +1,1 @@
-# COVID-EDA
+This repository contains a COVID-19 data analysis project, which includes SQL queries for data exploration and a Tableau visualization. The project aims to provide insights into the global impact of COVID-19 by analyzing data on cases, deaths, vaccinations, and other key metrics.
